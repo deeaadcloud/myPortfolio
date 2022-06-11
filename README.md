@@ -1,3 +1,3 @@
 ## myNewPortfolio
 
-- Здесь можно ознакомится с примером [открыть](deeaadcloud.github.io/myportfolio/).
+- Здесь можно ознакомится с примером [открыть](https://deeaadcloud.github.io/myPortfolio/).
